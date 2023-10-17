@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation    sample project
+Documentation    sample project modication for branch merge
 Library    SeleniumLibrary
 
 *** Variables ***
